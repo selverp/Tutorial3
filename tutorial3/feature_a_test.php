@@ -1,5 +1,5 @@
 <?php
-   //ovo je komentar
+   //ovo je novi komentar
    $arr = array('Hello','World!','Beautiful','Day!');
     echo implode(" ",$arr)."<br>";
     echo implode("+",$arr)."<br>";
